@@ -5,9 +5,8 @@ script /dev/null -c bash
 Ctrl-Z
 
 
-$ stty raw -echo
+$stty -echo raw; fg
 
-$ fg
 
 reset
 
