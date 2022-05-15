@@ -1,6 +1,7 @@
-# Configuracion entorno Linux
+# Configuraciones de entornos de shell
 
-#### [.tmux.conf](https://github.com/erik-451/Conf-Linux/blob/main/.tmux.conf.md)
-#### [Para conexiones por netcat: "Shell-TTY-totalmente-interactiva"](https://github.com/erik-451/Conf-Linux/blob/main/Shell-TTY-totalmente-interactiva.md)
+### [Windows powershell](https://github.com/erik-451/Conf-Linux/tree/main/Windows)
+#### [Linux](https://github.com/erik-451/Conf-Linux/tree/main/Linux)
+#### [Android Termux](https://github.com/erik-451/Conf-Linux/tree/main/Android-Termux)
 
 ![image](https://user-images.githubusercontent.com/47476901/162640652-6890e46e-4763-425b-8422-b273b33ee49c.png)
