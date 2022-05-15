@@ -33,4 +33,4 @@ Import-Module PSFzf
 Set-PsFzfOption -PsReadLineChordProvider 'Ctrl+f' -PSReadLineChordReverseHistory 'Ctrl+r'
 
 # Mandar configuracion al profile para que se aplique cada vez que iniciemos una sesion
-curl  https://raw.githubusercontent.com/erik-451/Conf-Linux/main/Windows/profile.ps1 >> $PROFILE
+curl  https://raw.githubusercontent.com/erik-451/Custom-shells/main/Windows/profile.ps1 >> $PROFILE
