@@ -1,7 +1,9 @@
 # Configuraciones de entornos de shell
 EN BETA FALTA CONTENIDO AUN
 #### [Windows powershell](https://github.com/erik-451/Conf-Linux/tree/main/Windows)
-#### [Linux](https://github.com/erik-451/Conf-Linux/tree/main/Linux)
-#### [Android Termux](https://github.com/erik-451/Conf-Linux/tree/main/Android-Termux)
+![Powershell](https://user-images.githubusercontent.com/47476901/168474826-8409bd5c-5348-4af0-bbe5-1acdadac468b.PNG)
 
-![image](https://user-images.githubusercontent.com/47476901/162640652-6890e46e-4763-425b-8422-b273b33ee49c.png)
+#### [Linux](https://github.com/erik-451/Conf-Linux/tree/main/Linux)
+![linux](https://user-images.githubusercontent.com/47476901/168484079-3cc0536e-0306-441a-8139-3e7cd5e4e382.PNG)
+
+#### [Android Termux](https://github.com/erik-451/Conf-Linux/tree/main/Android-Termux)
