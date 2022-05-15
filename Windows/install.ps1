@@ -13,7 +13,9 @@ Install-Module -Name Terminal-Icons -Repository PSGallery -Force
 Import-Module Terminal-Icons
 
 Install-Module -Name PSReadLine -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck
+Install-Module PSReadLine -Force
 Set-PSReadLineOption -PredictionSource History
+Set-PSReadLineOption -PredictionViewStyle ListView
 
 scoop install fzf
 Install-Module -Name PSFzf -Scope CurrentUser -Force
