@@ -3,7 +3,10 @@ Import-Module posh-git
 Import-Module oh-my-posh
 oh-my-posh.exe init pwsh -c 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/slimfat.omp.json'|Invoke-Expression
 Import-Module -Name Terminal-Icons
-# Buscar
+# Autocompletado
+Set-PSReadLineOption -PredictionSource History
+Set-PSReadLineOption -PredictionViewStyle ListView
+# Buscar archivos/carpetas
 Import-Module PSFzf
 Set-PsFzfOption -PsReadLineChordProvider 'Ctrl+f' -PSReadLineChordReverseHistory 'Ctrl+r'
 # Alias
