@@ -3,5 +3,5 @@
 
 ### Instalation
 ```powershell
-curl https://raw.githubusercontent.com/erik-451/Conf-Linux/main/Windows/install.ps1 > install.ps1
+curl https://raw.githubusercontent.com/erik-451/Custom-shells/main/Windows/install.ps1 > install.ps1
 ./install.ps1
