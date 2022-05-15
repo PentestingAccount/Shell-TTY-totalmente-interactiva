@@ -1,5 +1,5 @@
 # Configuraciones de entornos de shell
-
+EN BETA FALTA CONTENIDO AUN
 ### [Windows powershell](https://github.com/erik-451/Conf-Linux/tree/main/Windows)
 ### [Linux](https://github.com/erik-451/Conf-Linux/tree/main/Linux)
 ### [Android Termux](https://github.com/erik-451/Conf-Linux/tree/main/Android-Termux)
