@@ -7,3 +7,8 @@ curl https://raw.githubusercontent.com/erik-451/Custom-shells/main/Windows/insta
 chmod +x install.sh
 ./install.sh
 ```
+# Sources:
+- [Tmux](https://github.com/tmux/tmux/wiki)
+- [oh-my-posh](https://ohmyposh.dev/)
+- [NerdFonts](https://www.nerdfonts.com/)
+- [Icons in terminal](https://github.com/sebastiencs/icons-in-terminal)
