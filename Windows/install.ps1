@@ -19,3 +19,5 @@ scoop install fzf
 Install-Module -Name PSFzf -Scope CurrentUser -Force
 Import-Module PSFzf
 Set-PsFzfOption -PsReadLineChordProvider 'Ctrl+f' -PSReadLineChordReverseHistory 'Ctrl+r'
+
+curl  https://raw.githubusercontent.com/erik-451/Conf-Linux/main/Windows/profile.ps1 >> $PROFILE
