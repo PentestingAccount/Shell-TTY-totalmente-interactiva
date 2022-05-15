@@ -10,7 +10,6 @@ curl https://raw.githubusercontent.com/erik-451/Custom-shells/main/Windows/insta
 # Sources:
 - [oh-my-posh](https://ohmyposh.dev/)
 - [Windows terminal](https://docs.microsoft.com/es-es/windows/terminal/)
-- [Tmux](https://github.com/tmux/tmux/wiki)
 - [NerdFonts](https://www.nerdfonts.com/)
 - [Icons in terminal](https://github.com/sebastiencs/icons-in-terminal)
 - [Scoop](https://scoop.sh/)
