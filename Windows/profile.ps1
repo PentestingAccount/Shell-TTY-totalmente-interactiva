@@ -6,6 +6,7 @@ Import-Module -Name Terminal-Icons
 # Autocompletado
 Set-PSReadLineOption -PredictionSource History
 Set-PSReadLineOption -PredictionViewStyle ListView
+Set-PSReadlineKeyHandler -Key Tab -Function MenuComplete
 # Buscar archivos/carpetas
 Import-Module PSFzf
 Set-PsFzfOption -PsReadLineChordProvider 'Ctrl+f' -PSReadLineChordReverseHistory 'Ctrl+r'
