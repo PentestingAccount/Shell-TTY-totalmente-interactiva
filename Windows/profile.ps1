@@ -13,5 +13,5 @@ Set-Alias g git
 Set-Alias grep findstr
 Set-Alias tig  'D:\2-Programas\Git\Git\usr\bin\tig.exe'
 Set-Alias less  'D:\2-Programas\Git\Git\usr\bin\less.exe'
-# Clear the banner
+# Quitar banner
 cls
