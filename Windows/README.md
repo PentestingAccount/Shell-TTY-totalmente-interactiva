@@ -1,5 +1,5 @@
 ## Windows powershell environment instalation
-![Captura](https://user-images.githubusercontent.com/47476901/168474557-52c011e6-88c4-4148-abb4-4c49b5f0bffe.PNG)
+![Powershell](https://user-images.githubusercontent.com/47476901/168474826-8409bd5c-5348-4af0-bbe5-1acdadac468b.PNG)
 
 ### Instalation
 ```powershell
