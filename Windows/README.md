@@ -1,9 +1,10 @@
 ## Windows powershell environment instalation
-![Powershell](https://user-images.githubusercontent.com/47476901/168474826-8409bd5c-5348-4af0-bbe5-1acdadac468b.PNG)
+![linux](https://user-images.githubusercontent.com/47476901/168484079-3cc0536e-0306-441a-8139-3e7cd5e4e382.PNG)
 
 ### Instalation
-```powershell
-curl https://raw.githubusercontent.com/erik-451/Conf-Linux/main/Windows/install.ps1 > install.ps1
-./install.ps1
+```bash
+curl https://raw.githubusercontent.com/erik-451/Custom-shells/main/Windows/install.sh > install.sh
+chmod +x install.sh
+./install.sh
 ```
 
