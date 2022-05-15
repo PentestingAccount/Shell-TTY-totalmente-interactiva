@@ -3,7 +3,7 @@
 
 ### Instalation
 ```bash
-curl https://raw.githubusercontent.com/erik-451/Custom-shells/main/Windows/install.sh > install.sh
+curl https://raw.githubusercontent.com/erik-451/Custom-shells/main/Linux/install.sh > install.sh
 chmod +x install.sh
 ./install.sh
 ```
