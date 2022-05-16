@@ -1,5 +1,5 @@
 # Configuraciones de entornos de shell
-EN BETA FALTA CONTENIDO AUN falta comprobar scripts y falta android termux.
+EN BETA FALTA CONTENIDO AUN falta comprobar scripts al 100% e incluir iconos en la instalacion del entorno Linux , falta android termux.
 - #### [Windows powershell](https://github.com/erik-451/Conf-Linux/tree/main/Windows)
 ![Powershell](https://user-images.githubusercontent.com/47476901/168474826-8409bd5c-5348-4af0-bbe5-1acdadac468b.PNG)
 
