@@ -14,7 +14,7 @@ sudo apt install -y git zsh tmux curl unzip wget subversion
 ##############
 # Descargando oh my posh
 echo "[*] Descargando oh-my-posh"
-wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-arm64 -O /usr/local/bin/oh-my-posh
+wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh
 chmod +x /usr/local/bin/oh-my-posh
 
 # Descargando temas de oh my posh
