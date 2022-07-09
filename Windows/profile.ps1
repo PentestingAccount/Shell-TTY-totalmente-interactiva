@@ -10,7 +10,7 @@ Set-PSReadlineKeyHandler -Key Tab -Function MenuComplete
 # Buscar archivos/carpetas
 Import-Module PSFzf
 Set-PsFzfOption -PsReadLineChordProvider 'Ctrl+f' -PSReadLineChordReverseHistory 'Ctrl+r'
-# Alias
+# Alias (necesitamos git bash) | Esto nos proporcionará mejor comodidad y compatibilidad de binarios Linux en powershell 
 Set-Alias vim nvim
 Set-Alias ll ls
 Set-Alias g git
