@@ -3,9 +3,7 @@
 
 ### Install all environment
 ```bash
-curl -s https://raw.githubusercontent.com/erik-451/Custom-shells/main/Linux/install.sh > install.sh
-chmod +x install.sh
-./install.sh
+curl -s https://raw.githubusercontent.com/erik-451/Custom-shells/main/Linux/install.sh| bash
 ```
 
 ### Install only tmux
