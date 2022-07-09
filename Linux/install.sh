@@ -53,7 +53,7 @@ echo "[*] Descargando entorno tmux"
 curl -s "https://raw.githubusercontent.com/erik-451/Custom-shells/main/Linux/.tmux.conf.md" > $HOME/.tmux.conf
 
 # Asignamos que la shell se inicie con tmux
-echo "if [[ ! \$(tmux list-sessions) ]];\n then\n       tmux\n fi\n if [ -z \$TMUX ]; then\n    tmux;\n fi" >> .zshrc
+echo -e "if [[ ! \$(tmux list-sessions) ]];\n then\n       tmux\n fi\n if [ -z \$TMUX ]; then\n    tmux;\n fi" >> .zshrc
 
 echo "[*] Success!!!"
 
