@@ -31,6 +31,10 @@ curl -s https://raw.githubusercontent.com/erik-451/Custom-shells/main/Linux/.tmu
 - Ver sesiones activas: `Ctrl +x s`
 - Cambiar de Sesion de Ventana: `Ctrl +x numero_ventana|| Ctrl +x (Click numero_Ventana)`
 
+##### **Barra de navegacion**
+- Mostrar IP Publica: `Ctrl +x i`
+- Ocultar IP Publica: `Ctrl +x u`
+
 # Sources:
 - [Tmux](https://github.com/tmux/tmux/wiki)
 - [oh-my-posh](https://ohmyposh.dev/)
